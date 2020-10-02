@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 60px;
+    height: 60px;
+}
+#header{
+    width: 100%;
+    background: #F0FFF0;
+}
+.nav li a {
+    color: black;
+    font-weight: 500;
+    margin: 5px 5px;
+}
+.nav li a:hover{
+    color: #21B573;
+}
+.btn-background{
+    background: #21B573;
+    border-radius: 33px;
+    padding: 10px 28px;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+  text-align: center;
+}
+.image-part{
+    width: 100%;
+    height: 100%;
+}
